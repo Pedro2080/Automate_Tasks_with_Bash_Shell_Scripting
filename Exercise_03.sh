@@ -14,3 +14,11 @@ mycom
 
 # Set permission 0664 for all the extracted files
 find archive -type f -exec chmod 664 {} \;
+
+<<mycom
+3. The next step is to set the permissions on all the extracted folders. This can be done with the "sudo chmod 0775 *" command.
+mycom
+
+## Set permission 0775 for all the extracted folders
+
+find archive -type d -exec 0775 {} \;
