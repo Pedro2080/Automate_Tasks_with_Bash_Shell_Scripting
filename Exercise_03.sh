@@ -37,7 +37,6 @@ This can be done with the "sudo tar -czvf /tmp/archive.tar.gz *" command.
 mycom
 
 # Create a new archive
-
 tar -cvzf /tmp/archive.tar.gz ${TARGET_DIR}
 
 exit 0
