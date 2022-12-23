@@ -13,7 +13,7 @@ that do the following:
 and folders.
 - From all the fixed files and folders, create, a new archive named 
 “/tmp/archive.tar.gz”. <br />
-**Note**
+**Note:**
 - The completed solution will be evaluated in a new clean environment. Be sure 
 everything is in the “/home/joao/Documents/Automate_Tasks_with_Bash_Shell_Scripting” folder.
 - All the tasks should be done within a simple “sudo solve” execution invoked from 
