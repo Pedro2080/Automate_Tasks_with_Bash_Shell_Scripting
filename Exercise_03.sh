@@ -30,3 +30,14 @@ mycom
 
 # Set owner - nobody and group - nogroup for all files
 chown -R nobody:nogroup ${TARGET_DIR}
+
+<<mycom
+5. The final step is to create a new archive named "/tmp/archive.tar.gz" that includes all the extracted files and folders.
+This can be done with the "sudo tar -czvf /tmp/archive.tar.gz *" command.
+mycom
+
+# Create a new archive
+
+tar -cvzf /tmp/archive.tar.gz ${TARGET_DIR}
+
+exit 0
