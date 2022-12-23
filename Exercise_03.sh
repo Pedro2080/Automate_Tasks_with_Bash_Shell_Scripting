@@ -7,3 +7,10 @@ mycom
 # Extracting the archive
 
 sudo tar -xvzf archive.tar.gz
+
+<<mycom
+2. The next step is to set the permissions on all the extracted files. This can be done with the "sudo chmod 0664 *" command.
+mycom
+
+# Set permission 0664 for all the extracted files
+find archive -type f -exec chmod 664 {} \;
