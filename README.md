@@ -19,3 +19,6 @@ everything is in the “/home/joao/Documents/Automate_Tasks_with_Bash_Shell_Scri
 - All the tasks should be done within a simple “sudo solve” execution invoked from 
 the question directory.
   - Use sudo access.
+
+**4-** Write a bash script that prints names of all files from the current directory which
+content (not name) does not contain any digit.
