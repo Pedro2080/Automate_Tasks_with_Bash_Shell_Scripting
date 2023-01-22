@@ -49,3 +49,22 @@ Run a Docker container with binding of exposed port “80” to the same host po
 “"/home/joao/Documents/Automate_Tasks_With_Bash_Shell_Scripting"” 
 WILL BE CARRIED TO THE NEW ENVIRONMENT.
 The result of “sudo solve” invoked from the question directory should solve the task.
+
+###              Linux: Access Log Filtering
+
+**9-** Complete the file stub “/home/joao/Documents/Automate_Tasks_with_Bash_Shell_Scripting/Exercise_08.sh” with one or more
+steps that do the following:
+
+- Extract the archive “/home/joao/Documents/Automate_Tasks_with_Bash_Shell_Scripting/archive_02.tar.gz”.
+In all the extracted log files, find all the records with status code 5xx, where the IP
+address is not equal to “127.0.0.1”. Output the result to “/tmp/access.log” using
+newline as the delimiter.<br />
+**Note**
+- The completed solution will be evaluated in a new, clean environment. Be sure
+everything is in the “/home/joao/Documents/Automate_Tasks_with_Bash_Shell_Scripting/” folder.
+All the tasks should be done within a simple “sudo solve” execution invoked from
+the question directory.
+Use sudo access<br />
+**Grading**<br />
+- The execution result of “sudo solve” invoked from the question directory solves
+the task.
