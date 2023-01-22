@@ -21,7 +21,7 @@ the question directory.
   - Use sudo access.
   
 **4-** Write a bash script that prints names of all files from the current directory which
-content (not name) does not contain any digit.
+content (not name) does not contain any digit.<br />
 **5-** Write a script which counts how many environment variables are defined in the system.
 
 **6-** Write a script, which reads a file with numbers and finds a minimum, a maximum and a sum of values from the file. 
