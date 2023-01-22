@@ -31,3 +31,21 @@ If the file is empty, then the proper message should be printed.
 **7-** Write a script that takes three arguments: INPUT_FILE, OUTPUT_FILE1, OUTPUT_FILE2.
 All even numbers from INPUT_FILE would be written to OUTPUT_FILE1 and odd numbers to OUTPUT_FILE2.
 The script will display how many numbers are in both output files and how many words from the file were not a number.
+
+###                   HackerShop Deployment
+
+**8-** You are working on frontend deployment of the “hackershop” software.
+Complete the file stub “/home/joao/Documents/Automate_Tasks_With_Bash_Shell_Scripting"/Exercise_08.sh”
+with one or more steps that do the following.
+
+Run a Docker container with binding of exposed port “80” to the same host port and:
+- Is named “hackershop-frontend”.
+- Has an “nginx” image at “1.20” tag as the source.
+- Runs in interactive background mode.
+- Runs without pseudo-TTY allocation.
+**Note**
+- The completed solution will be evaluated in a new clean environment.
+- ANY CHANGES MADE MANUALLY WILL BE LOST. ONLY CHANGES TO THE “Exercise.sh” FILE IN 
+“"/home/joao/Documents/Automate_Tasks_With_Bash_Shell_Scripting"” 
+WILL BE CARRIED TO THE NEW ENVIRONMENT.
+The result of “sudo solve” invoked from the question directory should solve the task.

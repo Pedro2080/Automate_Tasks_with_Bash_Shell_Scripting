@@ -1,9 +1,9 @@
 #!/usr/bin/env bash
 
-TARGET_DIR="/home/joao/Documents/Automate_Tasks_with_Bash_Shell_Scripting"
+TARGET_DIR="/home/joao/Documents/Automate_Tasks_With_Bash_Shell_Scripting"
 
 <<mycom
-1. The first step is to extract the archive "/home/joao/Documents/Automate_Tasks_with_Bash_Shell_Scripting/archive.tar.gz".
+1. The first step is to extract the archive "/home/joao/Documents/Automate_Tasks_With_Bash_Shell_Scripting/archive.tar.gz".
  This can be done with the "sudo tar -xvzf archive.tar.gz" command.
 mycom
 
