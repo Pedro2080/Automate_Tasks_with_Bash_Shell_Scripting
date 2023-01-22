@@ -52,7 +52,7 @@ The result of “sudo solve” invoked from the question directory should solve 
 
 ###              Linux: Access Log Filtering
 
-**9-** Complete the file stub “/home/joao/Documents/Automate_Tasks_with_Bash_Shell_Scripting/Exercise_08.sh” with one or more
+**9-** Complete the file stub “/home/joao/Documents/Automate_Tasks_with_Bash_Shell_Scripting/Exercise_09.sh” with one or more
 steps that do the following:
 
 - Extract the archive “/home/joao/Documents/Automate_Tasks_with_Bash_Shell_Scripting/archive_02.tar.gz”.
