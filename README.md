@@ -42,7 +42,7 @@ Run a Docker container with binding of exposed port “80” to the same host po
 - Is named “hackershop-frontend”.
 - Has an “nginx” image at “1.20” tag as the source.
 - Runs in interactive background mode.
-- Runs without pseudo-TTY allocation.
+- Runs without pseudo-TTY allocation.<br />
 **Note**
 - The completed solution will be evaluated in a new clean environment.
 - ANY CHANGES MADE MANUALLY WILL BE LOST. ONLY CHANGES TO THE “Exercise.sh” FILE IN 
